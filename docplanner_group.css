@@ -1,0 +1,62 @@
+header{
+    display:flex;
+    flex-direction: row;
+ 
+}
+
+img {
+    width: 300px;
+    height: 70px
+}
+
+
+
+.navigation{
+    width: 100%;
+    height: 50px;
+    list-style-type: none;
+    
+}
+
+.main_menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: center;
+    margin: 15px;
+}
+
+.lead-logo{
+    width: 40px;
+    height: 39px;
+    display: block;
+    margin: 0 auto;
+      }
+
+     h1{
+          width: 768px;
+          height: 44.19;
+          color: #00b39b;
+          font-family: Work Sans,Arial,sans-serif;
+          font-size: 2.125rem;
+          text-align: center;
+      }
+      
+      .grid{
+        padding: 20px 20px 20px 20px ;
+        border: 20px;
+        margin: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-content: center;
+         font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+      }
+
+    
+
+
+
+  
+ 
